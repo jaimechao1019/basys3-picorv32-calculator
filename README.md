@@ -33,4 +33,4 @@ rather than PicoRV32 firmware.
 - BTND displays 1 if A > B, otherwise 0
 
 ## System Architecture
-<img width="1150" height="1368" alt="image" src="https://github.com/user-attachments/assets/18af17b2-68be-467c-853b-f31e5b49eec5" />
+<img width="805" height="957" alt="image" src="https://github.com/user-attachments/assets/18af17b2-68be-467c-853b-f31e5b49eec5" />
