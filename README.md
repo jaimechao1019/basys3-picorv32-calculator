@@ -164,42 +164,8 @@ https://github.com/YosysHQ/picorv32
 ---
 
 ## System Architecture
+<img width=410" height="614" alt="image" src="https://github.com/user-attachments/assets/98fb787a-e159-4db3-b156-251e028d187c" />
 
-```text
-                    +----------------------+
-                    | Instruction Memory   |
-                    |     firmware.hex     |
-                    +----------+-----------+
-                               |
-                               v
-                    +----------------------+
-                    |    PicoRV32 CPU      |
-                    +----------+-----------+
-                               |
-                               v
-                    +----------------------+
-                    |   Address Decoder    |
-                    +----------+-----------+
-                               |
-                               v
-                    +----------------------+
-                    | Memory-Mapped I/O    |
-                    +----------+-----------+
-                               |
-     --------------------------------------------------
-     |               |              |                |
-     v               v              v                v
-
-+---------+    +---------+    +---------+    +------------+
-| Switch  |    | Button  |    |   LED   |    | 7-Segment  |
-+---------+    +---------+    +---------+    +------------+
-
- SW[3:0] = A      BTNC = 加法
- SW[7:4] = B      BTNU = 減法
-                  BTNL = 乘法
-                  BTNR = 除法
-                  BTND = A>B比較
-```
 
 ---
 
