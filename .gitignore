@@ -1,0 +1,14 @@
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+*.elf
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.xpr
+*.webtalk
+.DS_Store
