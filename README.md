@@ -164,7 +164,8 @@ https://github.com/YosysHQ/picorv32
 ---
 
 ## System Architecture
-<img width="1227" height="212" alt="image" src="https://github.com/user-attachments/assets/3b155e2f-b401-4566-8f1a-dee8a0b7f30a" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/73e6ab73-4094-4968-ba23-98235d1a716f" />
+
 
 ---
 
